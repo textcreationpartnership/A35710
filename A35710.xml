@@ -1,0 +1,725 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Depositions taken the 22d of October 1688 before the Privy-Council and peers of England relating to the birth of the (then) Prince of Wales.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35710</idno>
+            <idno type="STC">Wing D1081</idno>
+            <idno type="STC">ESTC R31321</idno>
+            <idno type="EEBO-CITATION">11903094</idno>
+            <idno type="OCLC">ocm 11903094</idno>
+            <idno type="VID">50625</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35710)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50625)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1002:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Depositions taken the 22d of October 1688 before the Privy-Council and peers of England relating to the birth of the (then) Prince of Wales.</title>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: pages stained.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James, --  Prince of Wales, 1688-1766.</term>
+               <term>Mary, --  of Modena, Queen, consort of James II, King of England, 1658-1718.</term>
+               <term>Great Britain --  History --  James II, 1685-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50625:1"/>
+            <pb facs="tcp:50625:1" rendition="simple:additions"/>
+            <p>DEPOSITIONS Taken the 22d. of <hi>October</hi> 1688. BEFORE THE PRIVY-COUNCIL AND PEERS of <hi>ENGLAND;</hi> Relating to the Birth of the <hi>(Then)</hi> PRINCE of <hi>WALES.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng" type="order_to_print">
+                  <body>
+                     <p>Publiſhed by His MAJESTY's Special Command.</p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>[Price Six pence.]</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:50625:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:50625:2"/>
+            <head>AT The <hi>CO<g ref="char:V">Ʋ</g>NCIL-CHAMBER</hi> IN WHITEHALL, <hi>Monday</hi> the <hi>22d.</hi> of <hi>October,</hi> 1688.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HIS Day an extraordinary Council met, where were likewiſe preſent, by His Majeſty's Deſire and Appointment, Her Majeſty the Queen Dowager, and ſuch of the Peers of this King<g ref="char:EOLhyphen"/>dom, both Spiritual and Temporal, as were in Town: And alſo the Lord Mayor and Alder<g ref="char:EOLhyphen"/>men of the City of</hi> London, <hi>The Judges, and ſeveral of Their Majeſties Council, Learn'd, hereafter named.</hi>
+            </p>
+            <list>
+               <item>The King's moſt Excellent Majeſty.</item>
+               <item>Her Majeſty the Queen Dowager, in a Chair placed on the King's Right Hand.</item>
+               <pb n="4" facs="tcp:50625:3"/>
+               <item>His R. H. Prince <hi>George</hi> of <hi>Den<g ref="char:EOLhyphen"/>mark,</hi>
+               </item>
+               <item>Lord Chancellor,</item>
+               <item>Lord Preſident,</item>
+               <item>Lord Privy-Seal,</item>
+               <item>Duke of <hi>Hamilton,</hi>
+               </item>
+               <item>Lord Chamberlain,</item>
+               <item>Earl of <hi>Oxford,</hi>
+               </item>
+               <item>Earl of <hi>Hmntingdon,</hi>
+               </item>
+               <item>Earl of <hi>Peterborow,</hi>
+               </item>
+               <item>Earl of <hi>Craven,</hi>
+               </item>
+               <item>Earl of <hi>Berkeley,</hi>
+               </item>
+               <item>Earl of <hi>Rocheſter,</hi>
+               </item>
+               <item>Earl of <hi>Murray,</hi>
+               </item>
+               <item>Lord A. B of <hi>Canterbury,</hi>
+               </item>
+               <item>Duke of <hi>Norfolk,</hi>
+               </item>
+               <item>Duke of <hi>Grafton,</hi>
+               </item>
+               <item>Duke of <hi>Ormond,</hi>
+               </item>
+               <item>Duke of <hi>Northumberland,</hi>
+               </item>
+               <item>Marquiſs of <hi>Haliyfax,</hi>
+               </item>
+               <item>Earl of <hi>Pembroke,</hi>
+               </item>
+               <item>Earl of <hi>Salisbury,</hi>
+               </item>
+               <item>Earl of <hi>Clarendon,</hi>
+               </item>
+               <item>Earl of <hi>Cardigan,</hi>
+               </item>
+               <item>Earl of <hi>Ailesbury,</hi>
+               </item>
+               <item>Earl of <hi>Burlington,</hi>
+               </item>
+               <item>Earl of <hi>Litchfield,</hi>
+               </item>
+               <item>Earl of <hi>Feverſham,</hi>
+               </item>
+               <item>Earl of <hi>Nottingham,</hi>
+               </item>
+               <item>Earl of <hi>Middleton,</hi>
+               </item>
+               <item>Earl of <hi>Melfort,</hi>
+               </item>
+               <item>Earl of <hi>Caſtlemain,</hi>
+               </item>
+               <item>Viſcount <hi>Preſton,</hi>
+               </item>
+               <item>Lord <hi>Bellaſyſe,</hi>
+               </item>
+               <item>Lord <hi>Godolphin,</hi>
+               </item>
+               <item>Lord <hi>Dover,</hi>
+               </item>
+               <item>Mr. Chancellor of the Exche<g ref="char:EOLhyphen"/>quer,</item>
+               <item>Maſter of the Rolls,</item>
+               <item>L. Ch. Juſtice <hi>Herbert,</hi>
+               </item>
+               <item>Sir <hi>Thomas Strickland,</hi>
+               </item>
+               <item>Sir <hi>Nicolas Butler,</hi>
+               </item>
+               <item>Mr. <hi>Titus,</hi>
+               </item>
+               <item>Viſcount <hi>Newport,</hi>
+               </item>
+               <item>Viſcount <hi>Weymouth,</hi>
+               </item>
+               <item>Biſhop of <hi>London,</hi>
+               </item>
+               <item>Biſhop of <hi>Wincheſter,</hi>
+               </item>
+               <item>Biſhop of <hi>R cheſter,</hi>
+               </item>
+               <item>Biſhop of <hi>Cheſter,</hi>
+               </item>
+               <item>Biſhop of St. <hi>Davids,</hi>
+               </item>
+               <item>Lord <hi>North,</hi>
+               </item>
+               <item>Lord <hi>Chandois,</hi>
+               </item>
+               <item>Lord <hi>Montague,</hi>
+               </item>
+               <item>Lord <hi>Herbert</hi> of <hi>Cherbury,</hi>
+               </item>
+               <item>Lord <hi>Vaughan</hi> Earl of <hi>Carberry,</hi>
+               </item>
+               <item>Lord <hi>Colepepper,</hi>
+               </item>
+               <item>Lord <hi>Churchill,</hi>
+               </item>
+               <item>Lord <hi>Waldgrave,</hi>
+               </item>
+            </list>
+            <list>
+               <head>The Lord Mayor and Aldermen of the City of <hi>London.</hi>
+               </head>
+               <item>Sir <hi>Robert Wright,</hi> Lord Chief Juſtice of the King's Bench.</item>
+               <item>Sir <hi>Thomas Powel,</hi> Juſtices of the King's Bench.</item>
+               <item>Sir <hi>Robert Baldock,</hi> Juſtices of the King's Bench.</item>
+               <pb n="5" facs="tcp:50625:3"/>
+               <item>Sir <hi>Thomas Street,</hi> Juſtices of the Common Pleas.</item>
+               <item>Sir <hi>Edward Lutwich,</hi> Juſtices of the Common Pleas.</item>
+               <item>Sir <hi>Thomas Jennor,</hi> Juſtices of the Common Pleas.</item>
+               <item>Sir <hi>Richard Heath,</hi> Barons of the Exchequer.</item>
+               <item>Sir <hi>Charles Ingleby,</hi> Barons of the Exchequer.</item>
+               <item>Sir <hi>John Rotheram,</hi> Barons of the Exchequer.</item>
+               <item>Sir <hi>John Maynard,</hi> His Majeſty's Serjeants at Law.</item>
+               <item>Sir <hi>John Holt,</hi> His Majeſty's Serjeants at Law.</item>
+               <item>Sir <hi>Ambroſe Philips,</hi> His Majeſty's Serjeants at Law.</item>
+               <item>Sir <hi>Thomas Powis,</hi> His Majeſty's Attorney-General.</item>
+               <item>Sir <hi>William Williams,</hi> His Majeſty's Solicitor-General,</item>
+               <item>Sir <hi>James Butler.</hi>
+               </item>
+               <item>Mr. <hi>North,</hi> the Queen's Attorney.</item>
+               <item>Mr. <hi>Montague,</hi> the Queen's Solicitor.</item>
+               <item>Sir <hi>Charles Porter.</hi>
+               </item>
+            </list>
+            <div type="speech">
+               <head>To whom His Majeſty ſpake to this Effect.</head>
+               <opener>
+                  <salute>My Lords,</salute>
+               </opener>
+               <p>
+                  <hi>I</hi> Have called you together, upon a very extraordinary Occaſion; but extraordinary Diſeaſes muſt have extraordinary Remedies. The malicious Endeavours of my Enemies have ſo poiſon'd the Minds of ſome of my Subjects, That by the Reports I have from all Hands, I I have Reaſon to believe, That very many do not think this Son with which God hath bleſſed Me, to be Mine, but a ſuppoſed Child. But I may ſay, that by particular Providence, ſcarce any Prince was ever Born where there were ſo many Perſons preſent.</p>
+               <p>I have taken this Time to have the Matter Heard and Examined here, Expecting that the Prince of <hi>Orange,</hi> with the firſt Eaſtwardly Wind, will Invade this Kingdom: And as I have often ventured My Life for the Nation before I came to the Crown, ſo I think My Self more obliged to do the ſame, now I am <hi>KING;</hi> and do intend to go in Perſon againſt him, whereby I may be expoſed to Accidents, and therefor I thought it neceſſary to have this now done, in Order to ſatisfy the Minds of My Sub<g ref="char:EOLhyphen"/>jects, and to prevent this Kingdom's being engaged in Blood and Confuſion
+<pb n="6" facs="tcp:50625:4"/>after my Death, defiring to do always what may contribute moſt to the Eaſe and Quiet of my Subjects, which I have ſhewed by Securing to them their Liberty of Conſcience, and the Enjoyment of their Properties, which I will always preſerve.</p>
+               <p>I have deſired the Queen Dowager to give Her Self the Trouble to come hither, to Declare what ſhe knows of the Birth of My Son, and moſt of the Ladies, Lords, and other Perſons who were preſent, are ready here to Depoſe upon Oath their Knowledge of this Matter.</p>
+            </div>
+            <div type="speech">
+               <head>Whereupon the Queen Dowager was pleaſed to ſay,</head>
+               <p>THat when the King ſent for her to the Queen's Labour, ſhe came as ſoon as ſhe could, and never ſtirred from her till ſhe was Delivered of the Prince of <hi>Wales.</hi>
+               </p>
+               <closer>
+                  <signed>Catharina R.</signed>
+               </closer>
+            </div>
+            <div type="depositions">
+               <head>And the following Depoſitions were all taken upon Oath.</head>
+               <div type="deposition">
+                  <head>
+                     <hi>Elizabeth</hi> Lady Marchioneſs of <hi>Powis</hi> Depoſeth,</head>
+                  <p>THAT about the 29th of <hi>December</hi> laſt, the Queen was likely to miſcarry; whereupon ſhe immediatly went un<g ref="char:EOLhyphen"/>to her, and offered Her ſome effectual Remedies, which are made Uſe of on the like Occaſion, which the Queen ordered this Deponent to acquaint the Doctors with. The Day follow<g ref="char:EOLhyphen"/>ing the Queen Dowager ſent this Deponent to ſee how the Queen did, who replied, She had a pretty good Night, and did think ſhe had quickned, but would not be poſitive till ſhe felt it a<g ref="char:EOLhyphen"/>gain; That after this the Deponent did frequently wait on the Queen in the Morning, and did ſee her ſhift herſelf ſeveral Days, and generally ſaw the Milk, and ſometimes Wet upon her Smock. That ſometime after, this Deponent went into the Country, and came not up till a few Days before the Queen was brought to Bed, and from the Time of this Depon<g ref="char:EOLhyphen"/>ent's Return ſhe faw the Queen every Day till ſhe was brought to Bed, and was in the Room a Quarter of an Hour before, and at the Time of her Delivery of the Prince by Mrs. <hi>Wilks</hi> Her Majeſty's Midwife, which this Deponent ſaw, and immediatly went with the Prince, carried by Mrs. <hi>Delaba<g ref="char:EOLhyphen"/>die</hi> into the Queen's little Bed-Chamber, where ſhe ſaw Sir <hi>Thomas Witherly,</hi> ſent for by the Midwife, who gave the Child Three Drops of ſomething which came into the World with
+<pb n="7" facs="tcp:50625:4"/>him, which this Deponent ſaw dome: And this Deponent doth aver, this Prince to be the ſame Child which was then born, and that ſhe has never been from him one Day ſince.</p>
+                  <closer>
+                     <signed>Eliza. Powis.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>
+                     <hi>Anne</hi> Counteſs of <hi>Arran</hi> Depoſeth,</head>
+                  <p>THAT ſhe went to the Queen from <hi>Whitehall</hi> to St. <hi>James's</hi> as ſoon as ſhe heard that Her Majeſty was in Labour: When ſhe came, ſhe found the Queen in Bed, complaining of little Pains, the Lady <hi>Sunderland,</hi> Lady <hi>Roſcommon,</hi> Mrs. <hi>Labadie,</hi> and the Midwife, were on that Side of the Bed where the Queen lay; and this Deponent, with a great many others, ſtood on the other Side all the Time while the Queen was delivered: As ſoon as Her Majeſty was delivered, ſhe ſaid, <hi>O Lord, I don't hear the Child cry;</hi> and immediately upon that, this Deponent did hear it cry, and ſaw the Midwife take the Child out of the Bed, and give it to Mrs. <hi>Labadie,</hi> who carried it into the little Bed-Chamber, where ſhe, this Deponent, followed her, and ſaw that it was a Son, and that likewiſe ſhe, the Deponent, hath ſeveral Times ſeen Milk run out upon the Queen's Smock during her being with Child.</p>
+                  <closer>
+                     <signed>A. Arran.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>
+                     <hi>Penelope</hi> Counteſs of <hi>Peterborow</hi> Depoſeth.</head>
+                  <p>THAT ſhe was often with the Queen, while Her Maje<g ref="char:EOLhyphen"/>ſty was laſt with Child, and ſaw the Milk often upon Her Majeſty's Smock, when ſhe, the Deponent, took it off from the Queen, and often ſaw Her Majeſty's Belly, ſo as it could not be otherwiſe, but that ſhe was with Child. That the ſaid Deponent ſtood by the Bed-Side on the Tenth of <hi>June</hi> laſt in the Morning, while the Queen was delivered of the Prince of <hi>Wales.</hi>
+                  </p>
+                  <closer>
+                     <signed>P. Peterborow.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>
+                     <hi>Anne</hi> Counteſs of <hi>Sunderland,</hi> Depoſeth,</head>
+                  <p>THAT <hi>June</hi> the Tenth 1688, being <hi>Trinity Sunday,</hi> the Deponent went to St. <hi>James</hi>'s Chappel at Eight of the Clock in the Morning, intending to receive the Sacrament; but
+<pb n="8" facs="tcp:50625:5"/>in the Beginning of the Communion Service, the Man who looks to the Chappel came to the Deponent, and told her, ſhe muſt come to the Queen, the Deponent ſaid, She would as ſoon as Prayers were done. In a very little Time after, another Man came up to the Altar to the Deponent, and ſaid, The Queen was in Labour, and the Deponent muſt come to Her Majeſty, who then went directly to the Queens Bed-Chamber. As ſoon as the Deponent came in, Her Majeſty told her, this Deponent, ſhe believed ſhe was in Labour. By this Time the Bed was warmed, and the Queen went into Bed, and the King came in. The Queen asked the King, if he had ſent for the Queen Dowager, he ſaid he had ſent for every Body. The ſaid Deponent ſtood at the Queen's Bolſter, the Lady <hi>Roſcommon,</hi> Mrs. <hi>Delabadie,</hi> and the Midwife, on that Side of the Bed where the Queen was delivered. After ſome lingring Pains, the Queen ſaid, She feared ſhe ſhould not be brought to Bed a good while; but enquiring of the Midwife, ſhe aſſured Her Majeſty, That ſhe wanted only one thorow Pain to bring the Child into the World; upon which the Queen ſaid, It is impoſ<g ref="char:EOLhyphen"/>ſible, the Child lies ſo high, and commanded this Deponent to lay her Hand on Her Majeſty's Belly, to feel how high the Child lay, which the Deponent did; but ſoon after a great Pain came on at paſt Nine of the Clock, and the Queen was delivered, which the Midwife by pulling the Deponent by the Coat, aſſured her was a Son, it being the Sign, ſhe told the Deponent ſhe would give her, the Queen having charged her not to let Her Majeſty know preſently, whether it was Son or Daughter. As ſoon as the Midwife had given the Deponent the Sign, the Deponent made a Sign to the King that it was a Son. When the Midwife had done her Office, ſhe gave the Child to Mrs. <hi>Delabadie,</hi> which was a Son, and ſhe carried it into the little Bed-Chamber.</p>
+                  <closer>
+                     <signed>A. Sunderland.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>
+                     <hi>Iſabella</hi> Counteſs of <hi>Roſcommon,</hi> Depoſeth,</head>
+                  <p>THAT on the Tenth of <hi>June</hi> laſt, ſhe ſtood by the Lady <hi>Sunderland</hi> in the Queen's Bed-chamber, while the Queen
+<pb n="9" facs="tcp:50625:5"/>was in Labour, and ſaw the Prince of <hi>Wales,</hi> when he was taken out of the Bed by the Midwife.</p>
+                  <closer>
+                     <signed>I. Roſcommon</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>
+                     <hi>Margaret</hi> Counteſs of <hi>Fingal,</hi> Depoſeth,</head>
+                  <p>THAT ſhe waited on the Queen Dowager her Miſtriſs in<g ref="char:EOLhyphen"/>to the Queen's Bed-chamber, at St. <hi>James</hi>'s, when the Queen was in Labour, and ſtood by the Bed's Feet, when Her Majeſty was delivered of the Prince. That the Deponent ſaw the Prince carried away into another Room, and ſoon after fol<g ref="char:EOLhyphen"/>lowed, and ſaw him in that Room.</p>
+                  <closer>
+                     <signed>Marg. Fingall.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>Lady <hi>Sophia Bulkely,</hi> Depoſeth,</head>
+                  <p>THAT ſhe was ſent for on <hi>Trinity Sunday</hi> laſt paſt, about Eight a Clock in the Morning to go to St. <hi>James</hi>'s; for the Man that came ſaid, the Queen was in Labour, and he, and others were ſent to call every Body. That this Deponent made as much haſte as ſhe could to riſe and be dreſt, but did not get to the Queen's Bed-chamber, until a little after Nine a Clock, and then this Deponent found the Queen in her Bed, and the Queen Dowager there ſet upon a Stool, and ſome of the Ladies about her. After this Deponent having ſtaid a little while, and thinking the Queen in no ſtrong Pain, ſhe, this De<g ref="char:EOLhyphen"/>ponent, went out, and, being next to the Room where the Queen's Linnen was a Warming, heard a Noiſe, and lookt to ſee what was the Matter, and finding no Body there, this De<g ref="char:EOLhyphen"/>ponent ran and found the Lord <hi>Feverſham</hi> in the Queen's little Bed-chamber, who told this Deponent the Child was juſt born; this Deponent ask't him, What is it? His Lordſhip ſaid he could not tell, ſo this Deponent ran on to the Queen's Bed-ſide, and heard the Queen ſay to the Midwife, Pray, Mrs <hi>Wilks,</hi> don't part the Child (which ſignifies, don't cut the Navel-ſtring, until the After-birth is come away) And while the Queen was with Child, this Deponent hath heard Her Majeſty command her Midwife not to do otherwiſe, it being counted much the ſafeſt way; but to what the Queen ſaid juſt then (to the beſt of this Deponent's Remembrance) Mrs. <hi>Wilks</hi> replyed, Pray
+<pb n="10" facs="tcp:50625:6"/>Madam give me leave, for I will do nothing, but what will be ſafe for Your Self and Child. The Queen anſwered, Do then, and then cryed, Where is the King gone; His Majeſty came immediately from the other Side of the Bed (from juſt having a Sight of the Child) and anſwered the Queen, Here I am; the Queen ſaid, why do ye leave me now? The King kneeled on the Bed, on that ſide where the Deponent ſtood, and a little after the Midwife ſaid, All is now come ſafe away: Upon that the King roſe from the Bed and ſaid, Pray, my Lords come and ſee the Child: The King followed Mrs. <hi>Delabadie,</hi> and the Lords His Majeſty, into the little Bed-chamber, where this Deponent followed alſo, and ſaw as well as they, That it was a Prince, and that Mrs. <hi>Wilks</hi> was in the right to deſire to part the Child, for the Princes Face eſpecially his Forehead was blac<g ref="char:EOLhyphen"/>kiſh being ſtunn'd, as I have ſeen ſome other Children, when they have been juſt newly come into the World; but God be than<g ref="char:EOLhyphen"/>ked, in two Hours time that he was dreſt and waſht, (which the Deponent ſtaid by and ſaw done) the Prince look'd very freſh and well. This Deponent doth further add, That all the while, the Queen was with Child, this Deponent had the Honour to pay her Duty very often Mornings and Nights, in waiting upon her Majeſty in her Dreſſing-room and Bed-chamber; and for the laſt three or four Months, this Deponent hath oftentimes ſeen the Queen's Milk, as well as when this Deponent hath had the Honour to put on her Majeſty's Smock.</p>
+                  <closer>
+                     <signed>S. Bulkeley.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>Suſanna <hi>Lady</hi> Bellaſyſe <hi>Depoſeth.</hi>
+                  </head>
+                  <p>THAT on <hi>Trinity Sunday</hi> the 10th of <hi>June</hi> laſt, the Depo<g ref="char:EOLhyphen"/>nent's Servant ſeeing the Queen Dowagers Coaches in St. <hi>Jame</hi>'s at an unuſual Hour, went and asked the Occaſion, and was told, the Queen was in Labour; whereupon he came into the Deponent's Chamber, and awak'd her; That the Queen ha<g ref="char:EOLhyphen"/>ving come to lodge at <hi>St. James</hi>'s but the Night before, they be<g ref="char:EOLhyphen"/>ing in a great Hurry, forgot to call the Deponent as her Majeſty had ordered, That the Deponent made all the Haſte ſhe codid in<g ref="char:EOLhyphen"/>to her Majeſty's Bed-chamber, and found the Queen in Bed, and Mrs. <hi>Wilks</hi> her Majeſty's Midwife, ſitting by the Bedſide, with
+<pb n="11" facs="tcp:50625:6"/>her Hands in the Queen's Bed: The Queen asked her, the ſaid Midwife, what ſhe thought, Mrs. <hi>Wilks</hi> aſſured her Majeſty, That at the next great Pain the Child would be born: Whereupon the King ordered the Privy Counſellors to be called in, That this De<g ref="char:EOLhyphen"/>ponent ſtood behind the Midwife's Chair, and immmediately after the Queen's having another great Pain, the Prince was born, That this Deponent ſaw the Child taken out of the Bed with the Navel-ſtring hanging to its Belly, That this Deponent opened the Receiver, and ſaw that it was a Son, and not hearing the Child cry, and ſeeing it a little black, ſhe was afraid it was in a convul<g ref="char:EOLhyphen"/>ſion Fit.</p>
+                  <closer>
+                     <signed>S. Bellaſyſe.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>Henrietta <hi>Lady</hi> Waldegrave <hi>Depoſeth,</hi>
+                  </head>
+                  <p>THAT ſhe was in the Queen's Bed-chamber a quarter of an Hour before her majeſty was delivered, and ſtanding by the Bedſide ſhe ſaw the Queen in Labour, and heard her cry out very much.</p>
+                  <closer>
+                     <signed>Henrietta Wentworth.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>Mrs. <hi>Mary Crane,</hi> one of the Gentlewomen of the Bed-chamber to the Queen Dowager, Depoſeth,</head>
+                  <p>THAT ſhe went with the Queen Dowager to the Queen's Labour on the 10th of <hi>June</hi> laſt, and never ſtirred out of the Room till the Queen was delivered.</p>
+                  <p>That this Deponent did not follow the Child, when it was firſt carried out of the Room, but ſtaid in the Bed-chamber, and ſaw all that was to be ſeen after the Birth of a Child, That ſhe, the Deponent, then went to ſee the Prince, and found him look ill, and immediately went to the King, and told his Majeſty ſhe feared the Child was ſick, That his Majeſty went immediately to the Prince, and came back and ſaid it was a Miſtake, the Child was very well.</p>
+                  <closer>
+                     <signed>Mary Crane.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>Dame <hi>Iſabella Wentworth,</hi> one of the Gentlewomen of the Bed-chans<g ref="char:EOLhyphen"/>ber to the Queen, Depoſeth.</head>
+                  <p>THAT ſhe often ſaw the Milk of her Majeſty's Breaſt upon her Smock, at which the Queen was troubled, it being
+<pb n="12" facs="tcp:50625:7"/>common Saying, that the Child would not live. And that ſhe, the Deponent, did once feet the Child ſtir in the Queen's Belly while her Majeſty was in Bed, and that ſhe was preſent when the Child was born, and ſtard till ſhe hear'd it cry, and then went to fetch Vinegar for the Queen to ſmell to; ſhe, the Deponent, heard the Queea command the Midwife not to tell her of what Sex it was, for fear of ſurpriſing her Majeſty: When the Deponent brought the Vinegar, ſhe did deſire to ſee the Child, Mrs. <hi>De<g ref="char:EOLhyphen"/>labadie</hi> having it in her Arms. The Child looked black, where<g ref="char:EOLhyphen"/>upon the Deponent deſired Doctor <hi>Waldegrave</hi> to look to it, be<g ref="char:EOLhyphen"/>lieving it was not well: That the Deponent ſaw the Navel-ſtring of the Child cut, and three Drops of the Blood, which came freſh out, given to him for the convulſion Fits.</p>
+                  <closer>
+                     <signed>Iſabella Wentworh.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>Dame <hi>Kathatind Sayer,</hi> one of the Gentlewomen of the Bed-chamber to the Queen Dowager, Depoſeth,</head>
+                  <p>THAT ſhe waited on the Queen Dowager to the Queen's Labour, and was all the Time by the Bed-ſide, and ſtood there, till the Queen was delivered, and followed the Child, when it was carried by Mrs. <hi>Delabadie</hi> to the little Bed-chamber, and took a warm Napkin and laid it on the child's Breaſt, belie<g ref="char:EOLhyphen"/>ving the Child was not well,</p>
+                  <closer>
+                     <signed>Katharine Sayer.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>Dame <hi>Iſabella Waldegrave,</hi> one of the Gentlewomen of the Bed-cham<g ref="char:EOLhyphen"/>ber to the Queen, Depoſeth,</head>
+                  <p>THAT ſhe was conſtantly with the Queen, when her Ma<g ref="char:EOLhyphen"/>jeſty was likely to miſcarry, and bad often ſeen Milk on her majeſty's Breaſts, and was with the Queen at the Time of her Labour with the Prince and ſaw the Prince taken out of the Bed, and went after Mrs. <hi>Delabadie</hi> with the Prince in her Arms into the little Bed chamber, and was by when the Child was ſhewn to the King that it was a Son; and this Deponent took the After bur<g ref="char:EOLhyphen"/>den, and put it into a Baſon of Water, and carried it into the Queen's Cloſet.</p>
+                  <closer>
+                     <signed>Iſabella Waldegrave.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <pb n="13" facs="tcp:50625:7"/>
+                  <head>Mrs. <hi>Margaret Dawſon,</hi> one of the Gentlewomen of the Bed-chamber to the Queen, Depoſeth.</head>
+                  <p>THAT on the 10th of <hi>June</hi> laſt, in the Morning, ſhe was ſent for by the Queen out of St. <hi>James</hi>'s Chappel, where ſhe was at Prayers, and that coming up into the Queen's Cham<g ref="char:EOLhyphen"/>ber, ſhe found her ſitting all alone upon a Stool by the Beds-head, when the Queen ſaid to her, this Deponent, ſhe believed herſelf in Labour, and bid her the Deponent, get the Iallate-bed, which ſtood in the next Room, to be made ready quickly for her; but that Bed having never been aired, the Deponent perſuaded the Quen not to make uſe of it: After which the Queen bid the De<g ref="char:EOLhyphen"/>ponent make ready the Bed ſhe came out of, which was done accordingly. The Deponent further ſaith, That ſhe ſaw Fire carried into the Queen's Room in a warming Pan to warm the Bed, after which the Queen went into her bed, and that the Deponent ſtirred not from the Queen untill her Majeſty was de<g ref="char:EOLhyphen"/>livered of a Son. That ſhe, this Deponent, well remembers, That on the 29th of <hi>December</hi> laſt, her Majeſty was afraid of Miſ<g ref="char:EOLhyphen"/>carrying, which was about the Time ſhe quickned; and that af<g ref="char:EOLhyphen"/>ter the Queen had gone 22 Weeks with Child, her Majeſty's Milk began to run, which ſhe the Deponent often ſaw upon her Smock, and that the 9th of <hi>May</hi> her Majeſty apprehended Miſ<g ref="char:EOLhyphen"/>carrying again with a Fright.</p>
+                  <closer>
+                     <signed>Margaret Dawſon.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>Mrs. <hi>Elizabeth Bromley,</hi> one of the Gentlewomen of the Bed-Cham<g ref="char:EOLhyphen"/>ber to the Queen, Depoſeth,</head>
+                  <p>THAT ſhe was ſick all Winter till a little before Eaſter laft, when ſhe the Deponent came into waiting: That from that Time till the Queen was brought to bed, ſhe the Deponent ſaw the Queen put on her Smock every Morning; by which means ſhe ſaw the Milk conſtantly fall out of her Majeſty's Breaſts, and obſerv'd the Bigneſs of her Majeſty's Belly, which could not be counterfeit: That the Deponent came from <hi>Whitehall</hi> to the Queen's Labour to St. <hi>James</hi>'s the 10 of <hi>June</hi> laſt, and remained in the Room till the Queen was Deliver'd and afterwards; but did
+<pb n="14" facs="tcp:50625:8"/>not follow the Child till ſome time after, when ſhe the De pone went to ſee what coloured Eyes he had.</p>
+                  <closer>
+                     <signed>Elizabeth Bromley.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>Mrs. <hi>Pelegrina Turini,</hi> one of the Gentlewomen of the Bed-chamber to the Queen, Depoſeth,</head>
+                  <p>THAT ſhe conſtantly attended the Queen when ſhe was laſt with child, and that on the Tenth of <hi>June</hi> laſt ſhe was in waiting on her Majeſty, who call'd her on the ſaid Tenth of <hi>June</hi> in the Morning, and told her the Deponent ſhe was in Pain, and bid her ſend for the Midwife, her Ladies and Servants; after which ſhe the Deponent ſtay'd with the Queen during her Labour, and until ſhe was Delivered of the Prince of <hi>Wales.</hi>
+                  </p>
+                  <p>
+                     <hi>The Mark of</hi> Pelegrina <hi>[X]</hi> Turini.</p>
+               </div>
+               <div type="deposition">
+                  <head>Mrs. <hi>Anna Carey,</hi> One of the Gentlewomen of the Bed-Chamber to the Queen Dowager, Depoſeth,</head>
+                  <p>THAT ſhe waited on the Queen Dowager from <hi>Somerſet</hi>-houſe to St. <hi>James</hi>'s the Day the Queen was brought to bed, and went into the Queen's Bed-chamber, where ſhe this Depo<g ref="char:EOLhyphen"/>nent ſtay'd till the Queen was Delivered, and ſaw the Prince aſ<g ref="char:EOLhyphen"/>ſon as he was born.</p>
+                  <closer>
+                     <signed>Anna Carey.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>Mrs. <hi>Mary Anne Delabadie,</hi> Dry Nurſe to the Prince, Depoſeth,</head>
+                  <p>THAT ſhe was with the Queen all the Time her Majeſty was with child, and dreſs'd her every Day, and in all the nine Months, did not miſs above ſix Days, and that at ſeveral times by reaſon of Sickneſs.</p>
+                  <p>That on <hi>Sunday</hi>-morning the Tenth of <hi>June</hi> laſt, ſhe the De<g ref="char:EOLhyphen"/>ponent was ſent for to the Queen, who was in Labour: That the Deponent came preſently, and was with the Queen all the Time of her Labour; and that kneeling down by the Midwife, giving her Clothes for the Queen, the Midwife told this Depo<g ref="char:EOLhyphen"/>nent, that immediately on the next Pain the Queen would be De<g ref="char:EOLhyphen"/>livered, which accordingly ſhe was. That this Deponent whiſ<g ref="char:EOLhyphen"/>pered
+<pb n="15" facs="tcp:50625:8"/>to the Midwife, asking whether it was a Girl; ſhe an<g ref="char:EOLhyphen"/>ſwered, No. Whereupon the Midwife parted the Child, and put it into the Recevoir that the Deponent had given her, and then delivered the Child to the Deponent, and bid her go and carry it to the Fire, and take care of the Navel; which this De<g ref="char:EOLhyphen"/>ponent did, and the King and Council followed her: And the King asked this Deponent what it was, who anſwered, what he deſired; the King replyed, but let me ſee, whereupon the Depon<g ref="char:EOLhyphen"/>ent preſently ſhewed his Majeſty that it was a Son, and the Pri<g ref="char:EOLhyphen"/>vy Counſellors then preſent ſaw it one after another, whereupon the Deponent ſat with the Prince in her Lap, till the Midwife had done with the Queen, then the Midwife came and took the Prince from this Deponent, and ask'd for a Spoon, for to give it Three Drops of the Blood of the Navel-ſtring, which the Midwife cut off by the Advice of the Phyſicians, who ſaid, it was good againſt Fits, that the Deponent held the Spoon when the Midwife dropt the Blood into it, and ſtirr'd it with a little black Cherry Water, and then it was given to the Prince; that the Care of Him, in Quality of dry Nurſe, which ſhe has hither<g ref="char:EOLhyphen"/>to done. And further Depoſeth, it to be the ſame Child that was Born of the Queen. And that Mrs. <hi>Danvers,</hi> one of the Princeſs of <hi>Denmark's</hi> Women, and formerly Nurſe to the Lady <hi>Iſabella,</hi> coming to ſee the Prince, ſhe told this Deponent, ſhe was glad to ſee the ſame Marks upon his Eye, as the Queen's former Children had.</p>
+                  <closer>
+                     <signed>Mary Anne Delabadie.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>
+                     <hi>Ms.</hi> Judith Wilks <hi>Depoſeth,</hi>
+                  </head>
+                  <p>THAT being the Queen's Midwife, ſhe came often to her, eſpeciallys when Her Majeſty was in any Danger of Miſcarrying, and many Times felt the Child ſtir in her Belly, and ſaw the Milk run out of Her Majeſty's Breaſts, that on <hi>Trinity Sunday</hi> laſt, in the Morning, about Eight of the Clock, the Queen ſent Mr. <hi>White,</hi> Page of the Back<g ref="char:EOLhyphen"/>ſtairs. to call her this Deponent, believing herſelf in Labour, when the Deponent came, ſhe found the Queen in great Pain and Trembling; the Queen told her ſhe feared it was her La<g ref="char:EOLhyphen"/>bour, it being near the Time of her firſt Reckoning, ſhe the De<g ref="char:EOLhyphen"/>ponent deſired Her Majeſty not to be afraid, ſaying, She did not
+<pb n="16" facs="tcp:50625:9"/>doubt that it was her full Time, and hoped Her Majeſty would have as good Labour as ſhe always had; and whilſt Her Ma<g ref="char:EOLhyphen"/>jeſty was ſitting Trembling, her Water broke, and immediate<g ref="char:EOLhyphen"/>ly ſhe ſent for the King, he being gone to his own Side, and let him know in what Condition ſhe was, and deſired him to ſend for whom he pleaſed to be preſent. The Queen ordered this Depondent to ſend for Mrs. <hi>Dawſon,</hi> and the reſt of her Wo<g ref="char:EOLhyphen"/>men; Mrs. <hi>Dawſon</hi> came preſently, and the Counteſs of <hi>Sunder<g ref="char:EOLhyphen"/>land</hi> with her, and the Reſt of the Women alſo, that moſt of them ſaw her, this Depondent make the Bed fit for the Queen to be delivered in, which, when it was ready, Her Majeſty was put into, and about Ten a Clock that Morning, the Queen was delivered of the Prince of WALES, by her this De<g ref="char:EOLhyphen"/>ponent's Aſſiſtance, and afterwards, ſhe the Deponent ſhewed the After-burthen to the Phyſicians, and before them, the De<g ref="char:EOLhyphen"/>ponent cut the Navel-ſtring, and gave the Prince Three Drops of his Blood, to prevent Convulſion Fits, according to their Order. And this Deponent further ſaith, That when the Child was born, it not crying, the Queen ſaid, She thought it was dead, this Deponent aſſured Her Majeſty it was not, and deſir<g ref="char:EOLhyphen"/>ed leave to part the Chiid from the After-burthen, which the Queen was unwilling to have done, thinking it might be dan<g ref="char:EOLhyphen"/>gerous to herſelf; but the Deponent aſſuring Her Majeſty it would not, Her Majeſty gave Conſent, whereupon the Child preſently cryed, and then the Deponeut gave it to Ms. <hi>Delabadie.</hi>
+                  </p>
+                  <closer>
+                     <signed>Judith Wilks.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>Mrs. <hi>Elizabeth Pearſe,</hi> Landreſs to the Queen, Depoſeth,</head>
+                  <p>THAT about Nine a Clock, on the Tenth of <hi>June</hi> laſt, in the Morning, ſhe came into the Bed-chamber, and heard the Queen cry out, being in great Pain, in which ſhe continued until her Delivery; after whieh, ſhe the Deponent ſaw the Prince of WALES given by the Midwife to Mrs. <hi>Delabadie,</hi> that immediately after, the Deponent ſaw the Mid<g ref="char:EOLhyphen"/>wife hold up the After-burthen, ſhewing it to the Company, and then the Deponent fetcht her Maids, and with them took away all the foul Linnen, hot as they came from the Queen, that for a Month after Her Majeſty's Lying-in, the Deponent well
+<pb n="17" facs="tcp:50625:9"/>knows by the Waſhing of her Linnen, that the Queen was in the ſame Condition that all other Women uſe to be on the like Occaſion, and that ſome Time after her quickening, it appear<g ref="char:EOLhyphen"/>ed by her Smocks, that Her Majeſty had Milk in her Breaſts, which continued until ſhe was brought to Bed, and afterwards during the uſual Time.</p>
+                  <closer>
+                     <signed>Elizabeth Pearſe.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>
+                     <hi>Frances</hi> Dutcheſs of <hi>Richmond</hi> and <hi>Lennox,</hi> Depoſeth,</head>
+                  <p>THAT ſhe the Depouent was not at the Queen's La<g ref="char:EOLhyphen"/>bour, becauſe ſhe did not know it Time enough, but as ſoon as ſhe did, ſhe made all the Haſte ſhe could to dreſs her, but the Queen was delivered before ſhe the Depon<g ref="char:EOLhyphen"/>ent came, and that at a Time when the Qeen apprehended ſhe ſhould Miſcarry, and the Phyſicians made Her Majeſty keep her Bed for that Reaſon, the Deponent went one Evening to wait upon Her Majeſty, and as ſhe ſtood by her Bed-ſide Her Majeſty ſaid to her, <hi>My Milk is now very trouble<g ref="char:EOLhyphen"/>ſome, it runs out ſo much,</hi> the Deponent asked the Queen if it uſed to do ſo, who anſwered, <hi>It uſed to run out a little, but now the Fright I am in of Miſcarrying, makes it run out very much, as you may ſee,</hi> throwing down the Bed-clothes to the Middle of her Stomach, and ſhewing her Smock upon her Breaſt to the ſaid Deponent, which was very wet with her Milk.</p>
+                  <closer>
+                     <signed>F. Richmond &amp; Lennox.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>
+                     <hi>Charlotte</hi> Counteſs of <hi>Lichfield</hi> Depoſeth,</head>
+                  <p>THAT ſhe was not at the Queen's Labour, (being in Child-bed herſelf) but that ſhe was almoſt conſtantly with the Queen, while ſhe with Child, and hath put on her Smock, and ſeen the Milk run out of her Breaſt, and felt her Belly, ſo that ſhe is ſure ſhe could not be deceived, but that the Queen was with Child.</p>
+                  <closer>
+                     <signed>C. Litchfield.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <pb n="18" facs="tcp:50625:10"/>
+                  <head>
+                     <hi>Anne</hi> Counteſs of <hi>Mariſchal</hi> Depoſeth,</head>
+                  <p>THAT ſhe was ſeveral Times in the Queen's Bed-cham<g ref="char:EOLhyphen"/>ber when ſhe ſhifted herſelf, and hath ſeen her Smock ſtained with her Milk, that ſhe was not at the Queen's Labour, tho' ſent to by one of her Ladies, being Sick of a Fe<g ref="char:EOLhyphen"/>ver, but does in her Conſcience believe Her Majeſty was with Child, both by her Belly and her Milk.</p>
+                  <closer>
+                     <signed>A. Mariſchal.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>
+                     <hi>George</hi> Lord <hi>Jeffreys,</hi> Lord Chancellor of <hi>England</hi> Depoſeth,</head>
+                  <p>THAT he being ſent for to St. <hi>James</hi>'s on the Tenth of <hi>June</hi> laſt, by a Meſſenger that left Word, the Queen was in Labour, ſoon after he, this Deponent came to St. <hi>James's,</hi> and was ſent for into the Queen's Bed-chamber, and to the beſt of his, the Deponent's Apprehenſion the Queen was in Labour, and had a Pain or Two to the beſt of the Depon<g ref="char:EOLhyphen"/>ent's Remembrance, before the reſt of the Lords were called in. The Deponent ſtood all the Time at the Queen's Bed-ſide, and heard her cry out ſeveral Times as Women in Travel uſe to do, and at length after a long Pain, it was by ſome of the Women on the other Side of the Bed, ſaid the Child was born. The Deponent heard the Queen ſay, ſhe did not hear it cry, the Deponent immediately asked the Lord Preſident what it was, he whiſpered that it was a Boy, which the Deponent underſtood he had hinted to him by the Lady <hi>Sunderland.</hi> Immediatly the Deponent ſaw a Gentlewoman, who he hath ſince heard her Name to be Mrs. <hi>Delabadie,</hi> carry the Child into another Room, whither the Deponent followed, and ſaw the Child when ſhe firſt opened it, and ſaw it was black and reaking; ſo that it plainly ſeemed to this Deponent to have been newly come from the Womb. The Deponent doth therefor depoſe, he doth ſtedfaſt<g ref="char:EOLhyphen"/>ly believe the Queen was delivered of that Child that very Morn<g ref="char:EOLhyphen"/>ing.</p>
+                  <closer>
+                     <signed>
+                        <hi>Jeffreys.</hi> C.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <pb n="19" facs="tcp:50625:10"/>
+                  <head>
+                     <hi>Robert</hi> Earl of <hi>Sunderland,</hi> Lord Preſident of His Majeſty's Privy Council, and principal Secretary of State Depoſeth,</head>
+                  <p>THAT on <hi>Sunday</hi> Morning the Tenth of <hi>June</hi> laſt, he was ſent to, to come to St. <hi>James's,</hi> the Queen being in Labour, the Deponent immediately went, and found many of the Lords of Council there. After having been ſome Time in an outward Room, firſt the Lord Chancellor, and then the reſt of the Council were called into the Queen's Bed-cham<g ref="char:EOLhyphen"/>ber, where in a ſhort Time Her Majeſty was brought to Bed, the Deponent ſaw Mrs. <hi>Delabadie</hi> carry the Child into the next Room, whither the Deponent followed, with many more, and ſaw it was a Son, and had the Marks of being new born.</p>
+                  <closer>
+                     <signed>
+                        <hi>Sunderland</hi> P.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>
+                     <hi>Henry</hi> Lord <hi>Aruudel</hi> of <hi>Wardour,</hi> Lord Privy Seal, depoſeth,</head>
+                  <p>THAT on the Tenth of <hi>June</hi> laſt, being <hi>Sunday,</hi> he had Notice given him that the Queen was in Labour, where<g ref="char:EOLhyphen"/>upon the Deponent repaired to St. <hi>James</hi>'s betwixt Nine and Ten of the Clock in the Morning, where he found ſeveral Lords of the Council, in a little Time after, they were all called into the Queen's Bed-chamber, in leſs than a Quarter of an Hour after ſhe ſell into the Sharpneſs of her Labour her Crys were ſo Vehement, and eſpecially the laſt, that the Deponent could not forbid himſelf the being concerned for her great Pain, which the Deponent expreſſing to the Lord Chan<g ref="char:EOLhyphen"/>cellor, he told the Deponent it was a Sign her Majeſty would the ſooner he delivered, or Words to that Purpoſe, which prov<g ref="char:EOLhyphen"/>ed very true, for preſently after ſhe was ſo, the Deponent heard a Whiſpering up and down that it was a Prince, for no Man was permitted to ſpeak it aloud, leſt the ſudden Knowledge of It might have diſcompoſed the Queen, the Deponent did not go in with ſome Lords when the Child was carried into the next Room, which was the Occaſion the Deponent did not ſee him when he was uncovered and dreſt.</p>
+                  <closer>
+                     <signed>
+                        <hi>Arundel</hi> C. P. C.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <pb n="20" facs="tcp:50625:11"/>
+                  <head>
+                     <hi>John</hi> Earl of <hi>Mulgrave,</hi> Lord Chamberlain of His Majeſt's Houſhold ſaith, it is not to be expected one of his Sex ſhould be able to give full Evidence in ſuch a Matter, but depoſeth,</head>
+                  <p>THAt he was juſt at the Bed's Feet, and heard the Queen cry very much, then the Deponent followed the Child into the other Room, and it ſeemed a little black, the Deponent alſo ſaw it was a Boy.</p>
+                  <closer>
+                     <signed>Mulgrave.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>William <hi>Earl of</hi> Craven <hi>depoſeth</hi>
+                  </head>
+                  <p>THat he attending the King at St. <hi>James</hi>'s, the Tenth of <hi>June</hi> laſt, in the Morning, to receive the Word of His Majeſty the King had Notice brought him, that the Queen was upon the Point of falling into Labour, upon which the King commanded this Deponent's Stay and Attendance, and after the Space of one Hour and ſomething more, this Deponent was with ſome other Lords of his Majeſty's Privy Council, called into the Queens' great Bed-chamber to be preſent at her Delivery, and as near as this Deponent can remember, the Queen made three Groans or Squeeks, and at the laſt of Three, ſhe was delivered of a Child; the which was carried out into the little Bed-chamber, and there by the Fire this Deponent ſaw it cleanſing. And this Deponent further ſaith, That he took that particular Mark of this Child, that he may ſafely aver, that the Prince of <hi>Wales</hi> is that very Child that then was ſo brought out of the Queen's Great Bed-chamber, where this Deponent and others were preſent, as afore<g ref="char:EOLhyphen"/>ſaid, at Her Majeſty's Labour and Deliver.</p>
+                  <closer>
+                     <signed>Craven.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>
+                     <hi>Lewis</hi> Earl of <hi>Feverſham,</hi> Lord Chamberlain to Her Majeſty the Queen Dowager, Depoſeth.</head>
+                  <p>THat being in Bed upon the <hi>10th.</hi> of <hi>June,</hi> betwen 8 and 9 a Clock in the Morning, Mr. <hi>Nicolas,</hi> one of His Majeſty's Grooms of His Bed-chamber, came into this Deponent's Room, and told him, that the King had ſent him to tell the Queen Dow<g ref="char:EOLhyphen"/>ager, that the Queen was in Labout; and told him further, that the Queen Dowager had given Order for Her Coach, as ſoon as ſhe heard the News of the Queen's Labour. The Depo<g ref="char:EOLhyphen"/>nent
+<pb n="21" facs="tcp:50625:11"/>dreſſed himſelf with all Speed, and came to wait upon the Queen Dowager, who was ready to go into heer Coach, as ſhe did; the Deponent went into one of her Coaches, to wait upon Her Majeſty as he uſed to do, having the Honour to be Her Lord Chamberlain: We went to St. <hi>James</hi>'s, and then led Her Majeſty into the Queen's Bed-chamber, and finding the Queen in Pain, the Deponent went into the next Room, where were ſeve<g ref="char:EOLhyphen"/>ral Lords of the Privy Council, from whence the Deponent heard the Queen cry out ſeveral Times; and a very little after, the Lords of the Council were called in, and the Deponent follow<g ref="char:EOLhyphen"/>ed them into the Bed-chamber; and a very little after the Queen cried louder, and then ſaid, Pray do not tell me what it is yet. The Deponent went out of the Room, to tell the News that the Queen was brought to Bed; and when the Deponent came in agai, the News was, That it was a Prince; and immediatly the Deponent ſaw Ms. <hi>Delabadie,</hi> with the Child wrapt up in her Hands, and in the Crowd; upon which the Deponent deſired to make Room for the Prince, and followed her into the little Bed-chamber, where the Deponent ſaw the Prince as a Child newly born, as he believed it.</p>
+                  <closer>
+                     <signed>Feverſham.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>Alexander <hi>Eorl of</hi> Murray, <hi>Depoſeth.</hi>
+                  </head>
+                  <p>THat he came not to St. <hi>James</hi>'s, till Half an Hour after the Queen was brought to Bed, and only heard, That Her Majeſty was brought to Bed of a Prince; which the Deponent ve<g ref="char:EOLhyphen"/>rily believes (as he is alive) She brought into the World that very Morning, being the <hi>10th.</hi> of <hi>June</hi> laſt, 1688.</p>
+                  <closer>
+                     <signed>Murray.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>
+                     <hi>Charles</hi> Earl of <hi>Middleton,</hi> one of His Majeſty's Principal Secretaries of State, Depoſeth.</head>
+                  <p>THat the <hi>10th.</hi> of <hi>June</hi> laſt paſt betwixt 8 and 9 of the Clock in the Morning, he had Notice, That the Queen's Majeſty was in Labour; whereupon the Deponent made what Haſte he could to St. <hi>James</hi>'s: The Deponent found the Earl of <hi>Craven</hi> waiting at the Queen's Bed-chamber Door towards the Draw<g ref="char:EOLhyphen"/>ing Room, which was then ſhut: Juſt after the King opened it, and called the Earl of <hi>Craven</hi> and the Deponent in: The Depo<g ref="char:EOLhyphen"/>nent asked His Majeſty, How the Queen was? He was pleaſed
+<pb n="22" facs="tcp:50625:12"/>to anſwer the Deponent, You are a married Man, and ſo may know theſe Matters; The Water is broke or come away, or to that Effect; and then bid the Deponent go into the Dreſſing Room within the Bed-chamber, where the Deponent found ſeve<g ref="char:EOLhyphen"/>ral Perſons of Quality: Above Half an Hour after (to the beſt of this Deponent's Memory, all the Company in that Room were called into the Bed-chamber; The Deponent ſtood near the Bed's Feet, on the Left Side, where he heard the Queen's Groans, and preſently after ſeveral loud Skreeks; the laſt, the Deponent remembers continued ſo long, that he then wondred how any Body could hold their Breath ſo long: Preſently after, the Deponent heard them ſay the Queen was delivered; where<g ref="char:EOLhyphen"/>upon the Deponent ſtepped up to the Bed-ſide, and ſaw a Wo<g ref="char:EOLhyphen"/>man, he ſuppoſes the Midwife, kneeling at the other Side of the Bed, who had her Hands and Arms within the Bed-clothes for a pretty while; then the Deponent ſaw her ſpread a Cloth upon her Lap, and laid the End of it over the Bed-clothes, and then fetch a Child (as the Deponent firmly believes, for he could not then ſee it) out of the Bed into that Cloth, and give it to Ms. <hi>Delabadie,</hi> who brought it round to the Side where the Deponent ſtood, and carried it into a little Room, into which the Deponent immediatly followed the King, and ſaw her ſit down by the Fire, and heard her ſay, It is a Boy; upon which the King ſaid, let me ſee it; whereupon ſhe laid open the Cloth, and ſhewed all the Child, ſaying, There's what you wiſh to ſee: The Deponent doth not charge his Memory with the very Words, but the Senſe of what he heard. The Deponent looked upon the Child at the ſame Time, which appeared to be very foul. This Deponent de<g ref="char:EOLhyphen"/>ſireth Pardon if he doth not know the proper Expreſſion, but hopes his Meaning is Plain.</p>
+                  <closer>
+                     <signed>Middleton.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>
+                     <hi>John</hi> Earl of <hi>Melfort,</hi> Depoſeth.</head>
+                  <p>THat on <hi>Sunday</hi> the <hi>10th.</hi> of <hi>June</hi> laſt, betwixt 8 and 9 in the Morning, the Deponent was informed, That the Queen was in Labour; the Deponent went to St. <hi>James</hi>'s, and waited in the Queen's Drawing-Room, till ſome of the Gentle<g ref="char:EOLhyphen"/>men told him he might go in; the Deponent ſcratched at the Door of the Bed-chamber, and finding no Anſwer, he ran down
+<pb n="23" facs="tcp:50625:12"/>by the Garden Side, and came to the Queen's Back-Stairs; and finding the Dreſſing-Room Door open, the Deponent went in to the Queen's Bed-chamber, where he ſaw a great Number of Company, Lords and Ladies ſtanding about the Bed: The De<g ref="char:EOLhyphen"/>ponent heard the Queen cry out in great Pain, as Women uſe to do when they are near being brought to Bed; the Deponent heard her complain, and a Womans Voice, which the Deponent thought to be the Midwife, telling her ſhe would be quickly well, ſhe would be brought to Bed immediatly; within a little, the Deponent heard the Ladies behind the Bed ſay the Queen was brought to Bed, and the Queen cry out, The Child is dead, I do not hear it cry; and immediatly the Child cried: Within a little the Deponent ſaw a Woman bring a Child from within the Bed; the Deponent looked ſo earneſtly at the Child, that he knew not what Woman it was: The Child was in the Condition of a new born Child, lapt up in looſe Clothes: The Deponent ſaw him carried into the little Bed-chamber, and went about by the Dreſſing-Room, and entred by the other Door into the Room where the Prince was, and ſaw him in the Condition of a New born Child; and the Deponent, by the Oath he hath taken, be<g ref="char:EOLhyphen"/>lieves him to be the Queen's Child.</p>
+                  <closer>
+                     <signed>Melfort.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>
+                     <hi>Sidney</hi> Lord <hi>Godolphin,</hi> Lord Chamberlain to the Queen, Depoſeth,</head>
+                  <p>THat he was called into the Queen's Bed-chamber, with the reſt of the Lords of the Council, being one of the laſt; and the Queen Dowager being there, and ſeveral Ladies, the Room was ſo full, That the Deponent could not get near the Bed, but ſtood by the Chimney; There the Deponent heard the Queen cry out ſeveral Times, as Women uſe to do that are in Labour; and the laſt Cry that the Deponent heard, was much greater than the other: Immediatly upon that, the Deponent was called out of the Room, to give ſome Directions about the Lodgings that were preparing for the Child, which were not ready: The Depo<g ref="char:EOLhyphen"/>nent made Haſte back again, but as he was coming, he met People running with the News, that the Queen was deliver'd of a Son; whereupon the Deponent went into the little Bed-cham<g ref="char:EOLhyphen"/>ber, and ſaw the Child.</p>
+                  <closer>
+                     <signed>Godolphin.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <pb n="24" facs="tcp:50625:13"/>
+                  <head>Sir <hi>Stephen Fox</hi> Knight, Depoſeth.</head>
+                  <p>THat on <hi>Sunday</hi> the <hi>10th.</hi> of <hi>June</hi> laſt paſt, about 9 of the Clock, as he came out of the Chappel at <hi>Whitehall,</hi> after the firſt Sermon, hearing that the Queen was in Labour, he, the Deponent, made Haſte to St. <hi>James</hi>'s, becauſe in wait<g ref="char:EOLhyphen"/>ing, as an Officer of the green Cloth, to warn the ſeveral Ser<g ref="char:EOLhyphen"/>vants below Stairs to be in their Offices, that upon that Occaſion there might not happen to be any Thing wanting of Houſhold Proviſions and Neceſſaries under his, this Deponent's Command; but firſt going up by the Back-Stairs into her Majeſty's Dreſſing-Room; and being there with many others, he heard Her Maje<g ref="char:EOLhyphen"/>ſty cry out very loudly; whereupon this Deponent haſtned to the <hi>Green-Cloth,</hi> and ordred the ſeveral Servants to deliver out of their ſeveral Offices, whatſoever ſhould be called for; and as this De<g ref="char:EOLhyphen"/>ponent was returning back to the Queen's ſaid Dreſſing-Room, he was told a Prince was born: Upon which News, he, this De<g ref="char:EOLhyphen"/>ponent, went into the Queens little Bed-chamber, and ſaw the young Child before He was dreſs'd.</p>
+                  <closer>
+                     <signed>Ste. Fox.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>Lieut. Col. <hi>Edward Griffin,</hi> Depoſeth.</head>
+                  <p>THat upon <hi>Sunday</hi> the <hi>10th.</hi> of <hi>June</hi> laſt, he had the Honour to be in waiting upon the King with the Stick, and be<g ref="char:EOLhyphen"/>tween 8 and 9 in the Morning, this Deponent was in the Queen's Dreſſing-Room at St. <hi>James</hi>'s, with ſeveral Lords of the Council; and after ſome Time we were there, the King came out of the Queen's Bed-chamber, and called all the Lords in, and this Deponent went in along with them, being in waiting; immediat<g ref="char:EOLhyphen"/>ly after the ſaids Lords and this Deponent were in the Room, the Queen cried out exremely, and ſaid, <hi>Oh, I die; you kill me, you kill me:</hi> And the Midwife (as this Deponent believeth) anſwe<g ref="char:EOLhyphen"/>red, <hi>This one Pain, Madam, and 'twill be over;</hi> then preſently Ms. <hi>Dawſon</hi> made this Deponent the Sign that the Child was born; then this Deponent heard the Queen ſay, <hi>Don't tell me what it is yet;</hi> and Ms. <hi>Dawſon</hi> came to this Deponent, and whiſper'd him in the Ear, <hi>'Tis a Prince, but don't take Notice of it yet.</hi> Then Ms. <hi>Delabadie</hi> brought away the Child from the Bed-Side, and carried it into the little Bed-chamber, and the King and the Lords of
+<pb n="25" facs="tcp:50625:13"/>the Council went after her, but this Deponent did not follow them.</p>
+                  <closer>
+                     <signed>Edward Griffin.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>Sir <hi>Charles Scarburgh,</hi> Firſt Phyſician to the King, Depoſeth,</head>
+                  <p>THAT upon the Deponent's coming to viſit her Majeſty then lying at St. <hi>James</hi>'s, on <hi>Sunday</hi> the 10 of <hi>June</hi> 1688, as the Deponent went up the Back-ſtairs, he heard the joyful Accla<g ref="char:EOLhyphen"/>mation, that a Prince of <hi>Wales</hi> wsas born, upon which the Depo<g ref="char:EOLhyphen"/>nent haſtned preſently into the little Bed-chamber, where the De<g ref="char:EOLhyphen"/>ponent found Mrs. <hi>Delabadie</hi> juſt ſitting down before the Fire, with the new born Prince wrapp'd in the Mantles, lying in her Lap. Then paſſing to the Queen in the next Bed-chamber, the Deponent congratulated the happy Birth of the Prince, and her Majeſty's ſafe Delivery. The Queen was wearied and panting, but otherwiſe in good Condition: Then the Midwife brought to the Deponent the After-birth reeking warm, which Sir <hi>Thomas Witherley,</hi> with the Deponent, examined, and found very ſound and perfect. After a while, the Deponent underſtood, that a Me<g ref="char:EOLhyphen"/>dicine was mentioned among the Ladies for a ceertain Remedy a<g ref="char:EOLhyphen"/>gainſt Convulſions: It was, ſome Drops of Blood from the Na<g ref="char:EOLhyphen"/>vel-ſtring; the Deponent conſulted Sir <hi>Thomas Witherley</hi> and the other Phyſicians; and to ſatisfy the Women, it was allowed of; there being, as was conceived, no Danger in the Thing. Where<g ref="char:EOLhyphen"/>upon, the Midwife, with a ſmall Knife ſtit the Navel-ſtring be<g ref="char:EOLhyphen"/>yond the Ligature, from which came ſome Drops of freſh Blood, taken in a Spoon, and given the Child, being mix'd with a ittle <hi>Black Cherry-Water.</hi> Thus much the Deponent hath to ſay upon her Majeſty's preſent Delivery.</p>
+                  <p>Now for the Time of the Queen's Conception, ſhe often told the Deponent and others, That ſhe had two Reckonings; one one, from <hi>Tueſday</hi> the 6th of <hi>Sept.</hi> when the King return'd from his Progreſs to the Queen then at <hi>Bath,</hi> and the other from <hi>Thurſ<g ref="char:EOLhyphen"/>day</hi> the 6th of <hi>Octob.</hi> when the Queen came to the King at <hi>Wind<g ref="char:EOLhyphen"/>ſor;</hi> but for ſome Reaſons, the Queen rather reckoned from the Latter; though afterwards it prov'd juſt to agree with the For<g ref="char:EOLhyphen"/>mer. Moreover, her Majeſty, when, according to her Reckoning, ſhe was gone with Child 12 Weeks, ſaid that ſhe was quick, and perceived the Child to move; the Deponent returned no Anſwer
+<pb n="26" facs="tcp:50625:14"/>to the Queen, but privately told thoſe about her, That in Truth, it could not ſo be in to ſhort a Time; yet the Queen was in the Right, only miſtook her Reckoning; for ſhe was then full 16 Weeks gone with Child; about which time ſhe uſually quickned with her former Children, and accordingly was brought to bed on the 10th of <hi>June,</hi> 1688, nd within Three or four Days of full forty Weeks.</p>
+                  <closer>
+                     <signed>Charles Scarburgh,</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>Sir <hi>Thomas Witherely,</hi> Second Phyſician to the King, Depoſeth.</head>
+                  <p>THAT on <hi>Sunday</hi> the 10th of <hi>June,</hi> the Deponent was pre<g ref="char:EOLhyphen"/>ſent in the Queen's Bed-chamber when the Prince of <hi>Wales</hi> was born; the Deponent ſaw Mrs. <hi>Delabadie</hi> bring the Child from the Midwife, and carry him into the next Room, whi<g ref="char:EOLhyphen"/>ther the Deponent followed her, and ſaw the Child before he was cleaned; and having a Command from the Queen, that there ſhould be two Drops of the Blood of the Aftere-burthen given the firſt Thing; We the ſaid Deponent and the other Phyſicians did take two drops of Blood from the Navel-ſtring which remained upon the Child, and gave it in a Spoonfull of <hi>Black-cherry-water</hi> as the Queen commanded. After this, the Deponent ſaw (as alſo did the other Phyſicians) the After-burden entire.</p>
+                  <closer>
+                     <signed>Tho. Witherley.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>Sir <hi>William Waldegrave,</hi> Kt. her Majeſty's firſt Phyſician, Depo<g ref="char:EOLhyphen"/>ſeth.</head>
+                  <p>THAT in the Progreſs of her Majeſty's being with Child, the Deponent having the Honour to wait upon her as uſ<g ref="char:EOLhyphen"/>ual; upon the 13th of <hi>February</hi> 1688, about 10 in the Morning, ſhe told the Deponent, ſhe had Milk in her Breaſts, which dropt out; it was then thought the 19th Week according to one Rec<g ref="char:EOLhyphen"/>koning, but according to another Reckoning, it was the One or two and twentieth Week: The Deponent alſo affirmeth, That her Majeſty took ſuch adſtringent Medicins, during the moſt part of her being with Child, in order to avoid Miſcarriage, that if ſhe had not been with Child, they muſt have been prejudicial to her Health, and of dangetous conſequence. Upon the 10th of <hi>June</hi> 1688, the Deponent was call'd at his Lodging in <hi>Whitchall,</hi>
+                     <pb n="27" facs="tcp:50625:14"/>to wait upon the Queen, being told, ſhe was in Labour, upon which, the Deponent immediately went to St. <hi>James</hi>'s, and ſo into the Queen's Bed-chamber, and found her beginning her La<g ref="char:EOLhyphen"/>bour, it being about eight of the Clock in the Morning; the De<g ref="char:EOLhyphen"/>ponent ſtirr'd not from thence, but to get ſuch Medicines as were fit for her Majeſty, and then returned again, and was in the Bed-chamber when ſhe cried out, and was delivered, The De<g ref="char:EOLhyphen"/>ponent followed Mrs. <hi>Delabadie,</hi> who took the Prince in her Arms ſo ſoon as he was born, and carried him into the little Bed-cham<g ref="char:EOLhyphen"/>ber, where the Deponent ſaw him upon her Lap, and was by when he took two or three Drops of the Navel-ſtring freſh warm Blood, which was mix'd with <hi>Black-cherry-water,</hi> then returned into the great Bed-chamber, where the Deponent ſaw the After-burthen freſh and warm.</p>
+                  <closer>
+                     <signed>William Waldegrave.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>Dr. <hi>Robert Brady,</hi> one of His Majeſty's Phyſicians in Ordinary, Depoſeth.</head>
+                  <p>THAT a little before 10 of the Clock, in the Morning, on the 10th of <hi>June,</hi> 1688, the Deponent was in the Queen's little Bed-chamber at St. <hi>James's,</hi> where the Deponent ſaw the Prince of <hi>Wales</hi> in Mrs. <hi>Delabadie</hi>'s Lap by the Fire-ſide; the De<g ref="char:EOLhyphen"/>ponent deſired to ſee the Linnen and Blankets opened, in which he was wrapped; which being done, the Deponent ſaw it was a Male Child, and the Navel-ſtring hanging down to, or below the virile Parts, with a Ligature upon it, not far from the Body, but did not ſee any After-burden hanging at, or joined to it, not being at the Birth: The Deponent asked how long he had been born, the Standers-by told him, at three quarters of an Hour a<g ref="char:EOLhyphen"/>fter Nine of the Clock, the Queen was delivered.</p>
+                  <closer>
+                     <signed>Robeert Brady.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <head>
+                     <hi>James St. Amand,</hi> their Majeſties Apothecary, Depoſeth,</head>
+                  <p>THAT from the Beginning of <hi>November</hi> laſt, he hath gene<g ref="char:EOLhyphen"/>rally every Day, till the 9th of <hi>June</hi> 1688, given by the Phy<g ref="char:EOLhyphen"/>ſicians Orders, reſtringent and corroborating Medicines to the Queen's Majeſty, That on the 10th of <hi>Juae</hi> he was ſent for in haſte to come to St. <hi>James</hi>'s to her Majeſty, who, the Meſſen<g ref="char:EOLhyphen"/>ger
+<pb n="28" facs="tcp:50625:15"/>told him, was in Labour, That the Deponent then received a Note from the Phyſicians for Medicines for her Majeſty, which the Deponent was oblig'd to ſtay and prepare, and ſo came not to St. <hi>James</hi>'s till the Queen was delivered; the Deponent meeting, juſt as he was going into the Bed-chamber, Mrs. <hi>Delabadie</hi> with the young Prince in her Arms, the King, and ſeveral of the Lords, ſoon afteer following into the little Bed-chamber, where the Depo<g ref="char:EOLhyphen"/>nent ſaw the Child naked, before it was cleanſed from the Impuri<g ref="char:EOLhyphen"/>ties of the Birth; and alſo ſaw the Navel-ſtring cut and ſome Drops of freſh Blood received into a Spoon, which ſhe mingled with a little <hi>Black cherry water,</hi> and ſaw them given by the Phyſicians Or<g ref="char:EOLhyphen"/>ders to the Child; and afterwards going into the great Bed-chamber, where the Queen was delivered, he ſaw the After-burthen, <hi>&amp;c.</hi> freſh.</p>
+                  <closer>
+                     <signed>Ja. St. Amand.</signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="speech">
+               <head>After theſe Depoſitions were taken, His Majeſty was pleaſed to acquaint the Lords, That the Princeſs <hi>Anne</hi> of <hi>Denmark</hi> would have been pre<g ref="char:EOLhyphen"/>ſent, but that ſhe being with Child, and having not lately ſtirred a<g ref="char:EOLhyphen"/>broad, could not come ſo far without Hazard: Adding further,</head>
+               <p>AND now, My Lords, although I did not queſtion but every Perſon here preſent was ſatisfied before in this Mat<g ref="char:EOLhyphen"/>ter: Yet by what you have heard, you will be better able to ſatis<g ref="char:EOLhyphen"/>fy others. Beſides, if I and the Queen could be thought ſo wic<g ref="char:EOLhyphen"/>ked as to endeavour to impoſe a Child upon the Nation, you ſee how impoſſible it would have been; neither could I my Self be impoſed upon, having conſtantly been with the Queen during her being with Child, and the whole time of her Labour. And there is none of you but will eaſily believe Me, who have ſuffe<g ref="char:EOLhyphen"/>red ſo much for Conſcience ſake, uncapable of ſo great a Vil<g ref="char:EOLhyphen"/>lany, to the prejudice of my own Children. And I thank God, that thoſe that know Me, know well that it is My Principle to do as I would be done by, for that is the Law and the Prophets: And I would rather die a thouſand Deaths, than do the leaſt Wrong to any of my Children.</p>
+               <div type="part">
+                  <pb n="29" facs="tcp:50625:15"/>
+                  <head>His Majeſty further ſaid,</head>
+                  <p>IF any of My Lords think it neceſſary the Queen ſhould be ſent for, it ſhall be done. <hi>But their Lordſhips not thinking it neceſſary, Her Majeſty was not ſent for.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="order_to_enroll">
+               <q>'TIS Ordered this Day by His Majeſty in Council, That the ſeveral Declarations here before made by his Majeſty, and by her Majeſty the Queen Dowager, together with the ſeveral Depoſitions here en<g ref="char:EOLhyphen"/>tred, be forthwith Enrolled in the Court of <hi>Chancery.</hi> And the Lord Chancellor is Ordered to cauſe the ſame to be Enrolled accordingly.</q>
+               <p>IN Purſuance of which Order in Council, the Lord Chancellor on <hi>Saturday</hi> the 27th Day of <hi>October</hi> following, in the High Court of <hi>Chancery</hi> (many of the Nobility and Lords of His Majeſty's moſt Honourable Privy Council being there preſent) cauſed the aforeſaid Order of Council and Declaration of His Majeſty, and likewiſe that of Her Majeſty the Queen Dowager, to be openly and diſtinctly Read in Court, and the ſame are En<g ref="char:EOLhyphen"/>tred in the Words aforeſaid, in the Council Book. And the Lords and Ladies, and other Perſons who made the reſpective Depoſitions aforeſaid, being preſent in Court, were Sworn a<g ref="char:EOLhyphen"/>gain; and having heard their ſeveral Depoſitions diſtinctly Read in the Words aforeſaid, and being ſeverally Interrogated by the Court to the Truth thereof, they all upon their Oaths affirmed their reſpective Depoſitions to be true: And did like<g ref="char:EOLhyphen"/>wiſe Depoſe, (except ſome few who came in late to the Council Chamber, or ſome who ſtood at too great a Diſtance) That they heard His Majeſty, and her Majeſty the Queen Dowager, make the ſeveral Declarations aforeſaid, and that the ſame, as they had been Read, were truly Entred, as they did believe, in the Council Book, according to the Senſe, Intent and Meaning of what His Majeſty the King, and Her Majeſty the Queen Dowa<g ref="char:EOLhyphen"/>ger did then declare. And foraſmuch as the Earl of <hi>Huntingdon</hi> and the Earl of <hi>Peterburrow,</hi> who were able to Depoſe to the Matters aforeſaid, had not been examined at the Council Board,
+<pb n="30" facs="tcp:50625:16"/>but had brought their ſeveral Depoſitions in Writing, which they delivered into Court; the ſaid Lord Chancellor, after the ſaid Earls were ſeverally Sworn, Ordered their Depoſitions to be o<g ref="char:EOLhyphen"/>penly Read in the Words following.</p>
+               <div type="deposition">
+                  <p>UPON <hi>Trinity Sunday,</hi> Tenth of <hi>June</hi> 1688, I went to St. <hi>James</hi>'s Houſe about Nine a-clock in the Morning, and followed my Lord Chancellor through the Lodgings to the Dreſſing Room, next to the Queen's Bed-chamber, where divers Lords of the Council were met, upon occaſion of the Queen's being in Labour; the King came ſeveral times into the Room, and amongſt other things was pleaſed to tell us, that the Queen came exactly according to her firſt Reckoning, which was from the King's Return from his Progreſs to <hi>Bath,</hi> in <hi>September</hi> 1687 After this the Counſellors were ordered to come into the Bed<g ref="char:EOLhyphen"/>chamber, and I ſtood on that Side of the Bed that had the Curtains drawn open: I heard Her Majeſty cry out ſeveral times, I ſtay'd in the Room during the Birth of the Prince of <hi>Wales,</hi> I ſaw him carried in to the Little Bed-chamber, whither the King, the Lords, and my ſelf in particular, did follow him.</p>
+                  <closer>
+                     <signed>Huntingdon.</signed>
+                  </closer>
+               </div>
+               <div type="deposition">
+                  <p>I Had the Honour to be in the King's Chamber in the Morn<g ref="char:EOLhyphen"/>ing, when Word was brought him the Queen was not well, and followed him into the Dreſſing Room next Her Majeſty's Bed-chamber, where I ſtay'd till his Majeſty call'd me to come in, which was about the Beginning of her Pains. I confeſs, the Compaſſion I had for her Majeſty, hearing her Cries, made my Stay there very uneaſy; one of the laſt eſpecially ſeem'd to me ſo ſharp, as it really forced me for a little Time to ſtop my Ears with my Fingers, to avoid hearing more of the like; when ſetting them at liberty, I heard no more, but perceived a ſudden Satiſ<g ref="char:EOLhyphen"/>faction in the Faces of the Aſſiſtants, ſeveral ſaying that the Queen was Delivered; and ſoon thereupon I ſaw the Prince brought from about the Bed, and carried into the Little Bed-chamber,
+<pb n="31" facs="tcp:50625:16"/>whither I went afterwards, to behold him more particularly, where I ſaw him as a Child newly Born.</p>
+                  <closer>
+                     <signed>Peterburrow.</signed>
+                  </closer>
+               </div>
+               <div type="part">
+                  <p>AFter which the ſaid Earls did ſeverally, upon their Oaths, affirm their Depoſitions to be true, as they had been Read, and that they were preſent in Council, and heard His Majeſty and Her Majeſty the Queen Dowager make the ſeveral Declarations aforeſaid, and that the ſame were Entred in the Council Book, as they did believe, according to the Effect, true Senſe and Meaning of what their Majeſties declared in Council: Whereupon his Majeſty's Attorney General moved the Court, that the ſaid Declarations of His Majeſty and of Her Majeſty, the Queen Dowager, and the ſeveral Depoſitions, and the Or<g ref="char:EOLhyphen"/>der of Council ſhould be Enrolled in the Petty-bag-office, and in the Office of Enrolments in the Court of Chancery, for the ſafe Preſervation and Cuſtody of them, which the Lord Chan<g ref="char:EOLhyphen"/>cellor Ordered accordingly.</p>
+                  <closer>
+                     <dateline>EDINBURGH, <date>
+                           <hi>The Ninth Day of</hi> No<g ref="char:EOLhyphen"/>vember, 1688 <hi>Years.</hi>
+                        </date>
+                     </dateline>
+                     <signed>
+                        <list>
+                           <head>Preſent in Council.</head>
+                           <item>The Earl of <hi>Perth,</hi> Lord H. Chancellor.</item>
+                           <item>The Lord Arch-biſhop of St. <hi>Andrew</hi>'s.</item>
+                           <item>The Lord Arch-biſhop of <hi>Glaſgow.</hi>
+                           </item>
+                           <item>The Marq. of <hi>Athol.</hi> Lord Privy-Seal.</item>
+                           <item>The Lord Duke of <hi>Gordon.</hi>
+                           </item>
+                           <item>The Earl of <hi>Errol.</hi>
+                           </item>
+                           <item>The Earl of <hi>Caſſils.</hi>
+                           </item>
+                           <item>The Earl of <hi>Linlithgow,</hi> L. Juſtice General.</item>
+                           <item>The Earl of <hi>Dumferline.</hi>
+                           </item>
+                           <item>The Earl of <hi>Strathmore.</hi>
+                           </item>
+                           <item>The Earl of <hi>Lauderdale.</hi>
+                           </item>
+                           <item>The Earl of <hi>Traquaire.</hi>
+                           </item>
+                           <item>The Earl of <hi>Belcarras.</hi>
+                           </item>
+                           <item>The Earl of <hi>Broadalbine.</hi>
+                           </item>
+                           <item>The Lord Viſ. <hi>Tarbat.</hi>
+                           </item>
+                           <item>The Lord <hi>Strathnaver.</hi>
+                           </item>
+                           <item>The Lord <hi>Maitland.</hi>
+                           </item>
+                           <item>The Lord <hi>Duffus.</hi>
+                           </item>
+                           <item>The Lord <hi>Kinaird.</hi>
+                           </item>
+                           <item>The M. of <hi>Balmerinoch.</hi>
+                           </item>
+                           <item>The Lord P. of S.</item>
+                           <item>The Lord Advocat.</item>
+                           <item>The Lord J. Clerk.</item>
+                           <item>The Lord <hi>Caſtlehill.</hi>
+                           </item>
+                           <item>The Lord <hi>Lochore.</hi>
+                           </item>
+                           <item>Sir <hi>George Monro.</hi>
+                           </item>
+                           <item>The Laird of <hi>Nidry.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                     <pb n="32" facs="tcp:50625:17"/> 
+                     <hi>The proceeding Depoſitions concerning the Birth of HIs Royal Highneſs JAMES Prince of</hi> Scotland <hi>and</hi> Wales, <hi>being tranſmitted to His</hi> Majeſty's <hi>Privy-Council of this Kingdom by the Secretaries of State; and being ſolemnly read in Council, were ordered to be forthwith printed and publiſhed. Extracted forth of the Records of Privy-Council, by me</hi>
+                     <signed>WILL. PATERSON, <hi>Cls. Sti. Concilii.</hi>
+                     </signed>
+                  </closer>
+                  <pb facs="tcp:50625:17"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
